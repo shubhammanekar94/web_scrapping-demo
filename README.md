@@ -12,3 +12,5 @@ They also have their own WEBSHOP www.möbelfreude.de.
 
 LINK	TITLE	SIZE (Größe)	TEMPER (Härtegrad)	Color (Farbe)	Price	Availability
 https://www.moebelfreude.de/bett/boxspringbett-bea-anthrazit-90-x-200-cm-h  Boxspringbett Bea mit Visco-Topper  90x200  H2	Anthrazit	699,90€	Y
+
+## This repository contains the python code and jupyter notebook explaining the code along with the output of the code.
