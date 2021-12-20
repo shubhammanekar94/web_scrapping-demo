@@ -124,6 +124,6 @@ def main():
     df=df.drop_duplicates(subset=['LINK'])
     df.to_csv('Python_web_scraping_results.csv',index=False)
     
-    print('CSV File Generated Successfully!')   
+    print('CSV File Generated Successfully!')
     
 main()
