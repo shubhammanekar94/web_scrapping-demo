@@ -82,7 +82,7 @@ def main():
     product_links = product_base_links()
     result_dictionary={'LINK':[],'TITLE':[],'SIZE':[],'HARDNESS':[],'COLOR':[],'PRICE':[],'AVAILABILITY':[]}
 
-    for url in tqdm(product_links[]):
+    for url in tqdm(product_links):
 
         response = requests.get(url)
         page_content=response.text
